@@ -5,7 +5,7 @@ class Config(object):
     OWNER_ID = "1910728581"
     sudo_users = "1910728581"
     GROUP_ID = -1002106866999
-    TOKEN = "6707490163:AAHZzqjm3rbEZsObRiNaT7DMtw_i5WPo_0o"
+    TOKEN = "6578686182:AAEUthIVEi3rmiWqkztldBAaLs38ZwyeyFo"
     mongo_url = "mongodb+srv://Hackx:Hackx@hackx.6flteju.mongodb.net/?retryWrites=true&w=majority&appName=Hackx"
     PHOTO_URL = ["https://graph.org/file/d4c3e0cfdea337d761f6f.jpg", "https://graph.org/file/d4c3e0cfdea337d761f6f.jpg"]
     SUPPORT_CHAT = "GAURAV_BOTS"
