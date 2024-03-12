@@ -12,8 +12,8 @@ class Config(object):
     UPDATE_CHAT = "GAURAV_BOTS"
     BOT_USERNAME = "Infinite_waifus_bot"
     CHARA_CHANNEL_ID = "-1002007169772"
-    api_id = 28837889
-    api_hash = "9d5e9c5b8abcf8b7b930abd259de254e"
+    api_id = 20488530
+    api_hash = "d15591df8f332e3c0bc64ca09a1c8842"
 
     
 class Production(Config):
