@@ -3,17 +3,17 @@ class Config(object):
 
     # Get this value from my.telegram.org/apps
     OWNER_ID = "1910728581"
-    SUDO_USERS = "1910728581"
+    sudo_users = "1910728581"
     GROUP_ID = -1002106866999
     TOKEN = "6578686182:AAEUthIVEi3rmiWqkztldBAaLs38ZwyeyFo"
-    MONGO_URL = "mongodb+srv://Hackx:Hackx@hackx.6flteju.mongodb.net/?retryWrites=true&w=majority&appName=Hackx"
+    mongo_url = "mongodb+srv://Hackx:Hackx@hackx.6flteju.mongodb.net/?retryWrites=true&w=majority&appName=Hackx"
     PHOTO_URL = ["https://graph.org/file/d4c3e0cfdea337d761f6f.jpg", "https://graph.org/file/d4c3e0cfdea337d761f6f.jpg"]
     SUPPORT_CHAT = "GAURAV_BOTS"
     UPDATE_CHAT = "GAURAV_BOTS"
     BOT_USERNAME = "Infinite_waifus_bot"
     CHARA_CHANNEL_ID = "-1002007169772"
-    API_ID = 20488530
-    API_HASH = "d15591df8f332e3c0bc64ca09a1c8842"
+    api_id = 20488530
+    api_hash = "d15591df8f332e3c0bc64ca09a1c8842"
 
     
 class Production(Config):
